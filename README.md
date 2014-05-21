@@ -8,7 +8,7 @@ to the code itself.
 
 The layout of this repository is::
 
-  specs/<release>/
+  specs/\<release\>/
 
 You can find a template spec in `specs/template.rst`.
 
